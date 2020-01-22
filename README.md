@@ -5,4 +5,4 @@ After the successful completion of this course you will get a broad idea of Mach
 
 # References
 
-[Machine learning (Coursera)!](https://www.coursera.org/learn/machine-learning) 
+[ [1] Machine learning (Coursera)](https://www.coursera.org/learn/machine-learning) 
